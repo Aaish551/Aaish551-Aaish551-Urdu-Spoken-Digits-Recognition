@@ -1,1 +1,1 @@
-# Aaish551-Aaish551-Urdu-Spoken-Digits-Recognition
+Aaish551-Urdu-Spoken-Digits-Recognition
